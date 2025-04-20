@@ -497,11 +497,11 @@
         <div class="ad-container">
             <div class="ad-label">Advertisement</div>
             <!-- Replace with your AdSense code -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-2413986137954230/8101008379></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="ca-app-pub-2413986137954230/8101008379"></script>
             <!-- ImageCompressor_Top -->
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-app-pub-2413986137954230/8101008379
+                 data-ad-client="ca-app-pub-2413986137954230/8101008379"
                  data-ad-slot="YOUR_AD_SLOT_ID"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
@@ -633,11 +633,11 @@
         <div class="ad-container">
             <div class="ad-label">Advertisement</div>
             <!-- Replace with your AdSense code -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-2413986137954230/3785832186></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="ca-app-pub-2413986137954230/3785832186"></script>
             <!-- ImageCompressor_Bottom -->
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-app-pub-2413986137954230/3785832186
+                 data-ad-client="ca-app-pub-2413986137954230/3785832186"
                  data-ad-slot="YOUR_AD_SLOT_ID_3"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
